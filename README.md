@@ -1,5 +1,3 @@
-# Resultados electorales 
-
 ## Imágenes de los candidatos
 ### Aquiles Alvarez
 ![Aquiles Alvarez](/ruta/a/la/imagen.jpg)
