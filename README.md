@@ -1,5 +1,3 @@
-# programacionWeb
-
 # Resultados electorales 
 
 ## Imágenes de los candidatos
